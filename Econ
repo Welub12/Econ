@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>How the Philippines Meets Its Demand for Water</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="deck" aria-live="polite">
+    <section class="slide title-slide active">
+      <div class="badge">💧</div>
+      <p class="stage">Stage 1</p>
+      <h1>How the Philippines Meets Its Demand for Water</h1>
+      <p class="subtitle">Traditional water use, economic pressure, and a system that's running out of time.</p>
+      <p class="byline">Add your group's names and section here</p>
+    </section>
+
+    <section class="slide">
+      <p class="kicker">Part 01</p>
+      <h2>Traditional uses of water</h2>
+      <div class="two-column intro-grid">
+        <p class="lead">Water touches nearly every hour of Filipino daily life: drinking and cooking, bathing and washing, and—in farming communities—irrigating the rice, corn, and vegetable plots that feed the family table and the local market.</p>
+        <div class="icon-grid">
+          <div><span>💧</span><strong>Drinking</strong></div>
+          <div><span>🚿</span><strong>Hygiene</strong></div>
+          <div><span>🍲</span><strong>Cooking</strong></div>
+          <div><span>🌱</span><strong>Agriculture</strong></div>
+        </div>
+      </div>
+      <div class="stat-band">
+        <div class="stat"><strong>98.4%</strong><span>urban families</span></div>
+        <div class="stat teal-stat"><strong>94.1%</strong><span>rural families</span></div>
+        <p>have at least a basic level of drinking water service (2022). <small>[1]</small></p>
+      </div>
+      <span class="page-number">2 / 7</span>
+    </section>
+
+    <section class="slide">
+      <p class="kicker">Part 02</p>
+      <h2>Water as an economic good <span class="heading-badge">₱</span></h2>
+      <p>Once water is scarce, it stops being background infrastructure and becomes something households and farmers actively budget for.</p>
+      <div class="cards">
+        <article class="card"><h3>Piped connection</h3><strong>₱320</strong><p>median monthly bill; ₱500 in Metro Manila. <small>[4]</small></p></article>
+        <article class="card"><h3>Vendor or delivery truck</h3><strong class="clay">10×</strong><p>the price of piped water, in some areas. <small>[5]</small></p></article>
+      </div>
+      <div class="dark-band economic-band">
+        <div><h3>On the farming side</h3><strong>80%+</strong><p>historic share of total national water use. <small>[6]</small></p></div>
+        <div><strong>80% → 74%</strong><p>share of formal water permits going to irrigation, 2012 to 2022. <small>[7]</small></p></div>
+      </div>
+      <span class="page-number">3 / 7</span>
+    </section>
+
+    <section class="slide">
+      <p class="kicker">Part 03</p>
+      <h2>Coping with scarcity</h2>
+      <div class="steps">
+        <article><span>🕒</span><h3>Ration</h3><p>Metro Manila's water firms schedule service cuts of a few hours up to nearly a full day when reservoirs run low. <small>[8]</small></p></article>
+        <article><span>🛠️</span><h3>Dig or deepen wells</h3><p>Falling back on groundwater when piped or surface supply can't keep up.</p></article>
+        <article><span>🌱</span><h3>Change crops</h3><p>In 2015, NIA encouraged farmers to plant early-maturing, drought-tolerant rice to cut water use. <small>[9]</small></p></article>
+      </div>
+      <div class="comparison"><article><h3>City household</h3><p>Can usually still buy water from a truck or refilling station during a cut, even at a higher price.</p></article><article class="dark-band"><h3>Rural farmer</h3><p>With no deep well and a smaller harvest to sell, may have no fallback option at all.</p></article></div>
+      <span class="page-number">4 / 7</span>
+    </section>
+
+    <section class="slide dark-slide">
+      <p class="kicker">Part 04</p>
+      <h2>Why the traditional methods are failing</h2>
+      <div class="stats-grid">
+        <article><span>👥</span><strong>77M → 103M</strong><p>population growth, 2000–2016, as per-capita water fell from 1,907 to 1,400 m³ a year. <small>[10]</small></p></article>
+        <article><span>🌡️</span><strong>1,300 m³</strong><p>per-capita water availability today—below the 1,700 m³ water-stress line. <small>[11]</small></p></article>
+        <article><span>🌾</span><strong>700,000 MT</strong><p>possible rice production loss in a strong El Niño year. <small>[12]</small></p></article>
+      </div>
+      <hr>
+      <p class="closing">Waiting for rain or digging a little deeper assumes the old pattern still holds. A growing population and a shifting climate mean it increasingly doesn't.</p>
+      <span class="page-number">5 / 7</span>
+    </section>
+
+    <section class="slide">
+      <div class="question-mark">?</div><h2>Guide questions</h2>
+      <ol class="questions">
+        <li>What are the main traditional uses of water in the Philippines, and how has stable access helped communities and farms grow?</li>
+        <li>How do families and farmers manage when water is scarce?</li>
+        <li>Who is most affected when water runs low, and how does this create inequality between people in the city and those in rural areas?</li>
+        <li>Why is the traditional way of using water becoming unsustainable, and what new challenges make it harder to meet everyone's needs?</li>
+      </ol>
+      <span class="page-number">6 / 7</span>
+    </section>
+
+    <section class="slide dark-slide sources-slide">
+      <h2>📖 Sources</h2>
+      <p class="source-note">National figures in this deck are cited below. Add your own barangay-, city-, or province-level sources as your group's research develops.</p>
+      <div class="source-list">
+        <p><b>[1]</b> PSA, “Majority of Families Have Access to Improved Source of Drinking Water” (2022 APIS)</p>
+        <p><b>[2]</b> Inquirer, citing WHO–UNICEF JMP data on safely managed drinking water</p>
+        <p><b>[3]</b> UNICEF Philippines, “Two billion people lack safe drinking water…”</p>
+        <p><b>[4]</b> Inquirer, citing an SWS survey on piped water access and cost</p>
+        <p><b>[5]</b> Office of the Ombudsman / NEDA, “Chapter 8: Water Supply and Sanitation”</p>
+        <p><b>[6]</b> Inocencio, Elazegui, Luyun &amp; Rola, “Current Challenges in Agricultural Water Resource Management”</p>
+        <p><b>[7]</b> PIDS, “PIDS urges repurposing of idle irrigation water to expand access”</p>
+        <p><b>[8]</b> Inquirer, “Maynilad announces daily water interruption…”</p>
+        <p><b>[9]</b> UNCCD, “National Drought Plan for the Philippines” (2019)</p>
+        <p><b>[10]</b> SunStar Cebu, “Philippines Faces Water Supply Challenges by 2030”</p>
+        <p><b>[11]</b> Senate Economic Policy Office, “Quenching Policy Thirst…” (2024)</p>
+        <p><b>[12]</b> Inquirer, “PH braces for severe El Niño seen to last until 2027”</p>
+      </div>
+      <span class="page-number">7 / 7</span>
+    </section>
+  </main>
+
+  <nav class="controls" aria-label="Presentation controls">
+    <button id="previous" type="button" aria-label="Previous slide">‹</button>
+    <span id="slide-status">1 / 7</span>
+    <button id="next" type="button" aria-label="Next slide">›</button>
+  </nav>
+  <script src="script.js"></script>
+</body>
+</html>
